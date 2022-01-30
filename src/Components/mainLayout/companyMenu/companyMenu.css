@@ -1,0 +1,21 @@
+.companyMenu ul li a:hover {
+    color: #829190;
+
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    list-style: none;
+}
+
+.companyMenu ul li a {
+    list-style: none;
+    text-decoration: none;
+    text-align: center;
+    color: rgb(7, 1, 1);
+    font-size: 1.95em;
+    list-style: none;
+    padding: 25px 10px 10px 10px;
+}

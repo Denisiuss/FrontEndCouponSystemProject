@@ -1,0 +1,24 @@
+.couponInfo {
+	display: inline-block;
+    background-color: rgb(226, 226, 226);
+    width: 90%;
+    box-shadow: 2px 2px 2px;
+}
+.couponInfo .imgCoupon{
+    padding: 50px;
+}
+
+.couponInfo .couponBTN{
+    border: none;
+    cursor: pointer;
+    background-color: #02f1e6;
+    padding: 15px 30px;
+    border-radius: 30px;
+    color: inherit;
+    text-transform: inherit;
+    font-weight: inherit;
+}
+
+.couponInfo .couponBTN:hover{
+    background-color: #00c0b6;
+}
